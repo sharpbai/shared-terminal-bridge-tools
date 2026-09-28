@@ -1,0 +1,5 @@
+/dist/
+/ssh/internal/builddata/generated.go
+/ssh/vendor-pwsh/
+/ssh/cmd/stb-tool-sshd/payload/*.zip
+/ssh/private/
